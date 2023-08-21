@@ -1,7 +1,7 @@
 {
   "homepage": "https://smdrlaywr.github.io",
   "name": "102_smd",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
